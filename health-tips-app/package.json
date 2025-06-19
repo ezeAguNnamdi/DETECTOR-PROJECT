@@ -1,0 +1,21 @@
+{
+  "name": "health-tips-app",
+  "version": "1.0.0",
+  "description": "A simple web application providing health tips with a login feature.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "health",
+    "tips",
+    "login",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
